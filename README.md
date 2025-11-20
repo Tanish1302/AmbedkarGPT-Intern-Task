@@ -299,14 +299,7 @@ python evaluation.py
 ## 🔗 Repository Information
 
 **Repository Name:** AmbedkarGPT-Intern-Task  
-**Repository URL:** [Your GitHub URL]  
-**Contact:** [Your Email]
 
-## 📧 Submission
-
-**Hiring Manager:** Kalpit Pvt Ltd, UK  
-**Email:** kalpiksingh2005@gmail.com  
-**Deadline:** 4 days from assignment receipt
 
 ## 🙏 Acknowledgments
 
