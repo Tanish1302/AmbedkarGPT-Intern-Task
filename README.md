@@ -7,7 +7,7 @@ This project implements a comprehensive evaluation framework for the AmbedkarGPT
 
 **Company:** Kalpit Pvt Ltd, UK  
 **Assignment:** AI Intern Hiring - Phase 2  
-**Candidate:** [Your Name]
+**Candidate:** [Tanish Punamiya]
 
 ## 🎯 Assignment Objectives
 
